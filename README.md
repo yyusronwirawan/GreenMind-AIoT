@@ -1,6 +1,7 @@
 🌱 AIoT Wireless Sensor Network iClimate in Greenhouse with LSTM & Reinforcement Learning
 
 ![iClimate System](./scrnli_XqwpnePikJp5vr.png)
+![iClimate System](./WSN-Monitoring-04-15-2025_08_51_PM.png)
 
 Overview
 iClimate is an intelligent greenhouse climate management system that leverages AIoT (Artificial Intelligence of Things), LSTM deep learning, and Reinforcement Learning (RL) to create a fully autonomous and energy-efficient environment for crop cultivation.
